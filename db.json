@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": "14"
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "11"
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": "5"
     },
     {
       "id": 4,
@@ -48,20 +48,29 @@
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
     },
-    
-   
     {
-      "name": "danny",
-      "image": "http://cdn.shopify.com/s/files/1/1140/8354/products/JZW_92036_CB_1200x1200.jpg?v=1574280790",
+      "name": "Danny ",
+      "image": "https://i5.walmartimages.com/asr/2818333a-15e7-40ce-83cb-b9b2470482df_1.75ff30450f1fe490cd0a7423d9309a55.jpeg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Allen ",
+      "image": "https://i5.walmartimages.com/asr/de2e075c-981d-40ce-850b-220a3a6e3d9d_1.05d1edb79bc48b1c1dd78602cd2b6e25.jpeg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Megan",
+      "image": "https://storage.makerist.de/uploads/pattern/18735/featured_image/carousel_large_featured_image_6028e77b.jpg",
       "likes": 0,
       "id": 11
     },
-    
     {
       "name": "arya",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCE6OmbObhQJQAZB3a4zbNizdrdA-s1a2ZqOkHT0j7TdzcG4_9xJg3mV0RcwfB_gGK0maTeCnpnpJIKmpDzo-V_VzwMKUzpsuenIQ-7ULYxxS6L6xaAruzmGRw&usqp=CAc",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcDjGiFuZKMmOzGutZJ-vU4e8ozusvVjBCSbWRjNrmJ0DcvHJug&s",
       "likes": 0,
-      "id": 14
+      "id": 12
     }
   ]
 }
